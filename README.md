@@ -19,5 +19,5 @@
 - #### Demographics of Neighborhood Councils using census 2010 demographics data - https://geohub.lacity.org/datasets/lahub::demographics-of-neighborhood-councils/about
 - #### Demographics data sheet compiled by Empower LA (https://empowerla.org/data/) using the ACS Data 2018 (5-Year estimates) and the analysis done through ArcGIS Online- https://drive.google.com/drive/folders/1uupIXEGEC8UlFOCQiyIPH9q7JmETn_Cx
 - #### Other similar studies:
-  * http://www.laalmanac.com/population/po24la.php; The LA city boundary used in this analysis- https://geohub.lacity.org/datasets/lahub::la-times-neighborhood-boundaries/about. It should be noted that the cities reported here is different from LA NCs. 
-  * https://usc.data.socrata.com/Los-Angeles/Census-Tract-Locations-LA-/atat-mmad
+  * #### http://www.laalmanac.com/population/po24la.php; The LA city boundary used in this analysis- https://geohub.lacity.org/datasets/lahub::la-times-neighborhood-boundaries/about. It should be noted that the cities reported here is different from LA NCs. 
+  * #### https://usc.data.socrata.com/Los-Angeles/Census-Tract-Locations-LA-/atat-mmad

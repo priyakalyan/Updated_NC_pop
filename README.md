@@ -13,7 +13,7 @@
    * #### tl_2020_06037_tract20.shp from tl_2020_06037_tract20 folder - Census Tracts 2020 Tigershape file. 
    * #### ACS_census_tract_LA.csv - ACS 2020 demographics data for the LA county. Note: Save the ACS 2020 demographics data from this link: https://api.census.gov/data/2020/acs/acs5/profile?get=group(DP05)&for=tract:*&in=state:06&in=county:037&key=cb51343974c4b01dc140a03af63a82c6424272ee as a csv file and clean it (removing the empty space, closed bracket and quotes).
    * #### Neighborhood_Councils_(Certified).shp in Neighborhood_Councils_(Certified) folder- LA city Neighborhood Councils shape file. 
-- #### NC_updated_pop_comparison.ipynb - In this notebook, the evaluated NC population using the methodology detailed in NC_pop_recent.ipynb ave been compared with the population value obtained from Geospatial analysis using arcGIS software. 
+- #### NC_updated_pop_comparison.ipynb - In this notebook, the evaluated NC population using the methodology detailed in NC_pop_recent.ipynb have been compared with the population value obtained from geospatial analysis using arcGIS software. 
 - #### NC_updated_pop_comparison_old.ipynb - This is an older version of  NC_updated_pop_comparison.ipynb.
 
 ### Resources pertaining to this research:

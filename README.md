@@ -4,7 +4,7 @@
   
 ### Have calculated the population of LA city neighborhood councils using the updated NC shape file, Census tracts data-2020 and 2020-ACS (5 year estimate) demographics data. The notebook- NC_pop_recent.ipynb outlines the detailed steps involved to evaluate the populataion, area (in square miles) and population density of the 99 NCs. 
 
-### The movtivation behind this analysis stems from the fact that the latest available population data for the NCs have been estimated using older census  population/demographics data approximated from block groups to LA NCs (97 NCs). The boundary of NC has been modified around 2018- adding 2 more NCs- Arts District Little Tokyo NC (also known as Historic Cultural) and Westwood NC. 
+### The motivation behind this analysis stems from the fact that the latest available population data for the NCs have been estimated using older census  population/demographics data approximated from block groups to LA NCs (97 NCs). The existing population data only covers 97 NCs. The boundary of NC has been modified around 2018- adding 2 more NCs- Arts District Little Tokyo NC (also known as Historic Cultural) and Westwood NC. Since there are 99 NCs now, this Geospatial analysis provides an updated population values for all the 99 NCs.
 
 ### How to use this repo:
 - #### NC_pop_recent_no_filter.ipynb- This notebook computes the population of the 99 NCs without any filter. Therefore the total population of the LA city NCs is inflated. 
@@ -15,7 +15,8 @@
    * #### Neighborhood_Councils_(Certified).shp in Neighborhood_Councils_(Certified) folder- LA city Neighborhood Councils shape file. 
 - #### NC_updated_pop_comparison.ipynb - In this notebook, the evaluated NC population using the methodology detailed in NC_pop_recent.ipynb have been compared with the population value obtained from geospatial analysis using arcGIS software. 
 - #### NC_updated_pop_comparison_old.ipynb - This is an older version of  NC_updated_pop_comparison.ipynb.
-
+- #### tracts_nc_final.csv- This csv file has the updated population, population density and the area (in square miles) of all the 99 NCs.
+  
 ### Resources pertaining to this research:
 
 - #### Census tracts data 2020 - https://www2.census.gov/geo/tiger/TIGER2020PL/STATE/06_CALIFORNIA/06037/
